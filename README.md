@@ -1,4 +1,4 @@
-HAPPY-CAMPUS Public
+# HAPPY-CAMPUS Public
 2024 | 2nd SW/Content Venture Startup Academy Hackathon (2024 Surferthon)
 
 # 행캠 - HAPPY CAMPUS 서비스
